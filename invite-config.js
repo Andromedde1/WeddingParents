@@ -5,8 +5,8 @@
  */
 window.INVITE_CONFIG = {
   /** Строки на обложке */
-  coverLine1: 'Дорогая Мама',
-  coverLine2: 'Мы приглашаем тебя',
+  coverLine1: 'Дорогие Родители',
+  coverLine2: 'Мы приглашаем Вас',
   coverLine3: 'на нашу свадьбу',
 
   /** Первая строка (coverLine1) уходит в Formspree как «кому_приглашение» */
